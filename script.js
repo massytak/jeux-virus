@@ -6,7 +6,7 @@ let count;
 daysLeft = 60;
 gameOverNumber = 50;
 loopPlay=false;
-
+//apartir de cette function
 function start() {
   count = 0;
   getFaster = 6000;
